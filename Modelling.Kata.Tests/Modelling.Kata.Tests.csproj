@@ -22,4 +22,12 @@
         </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Camping" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Modelling.Kata\Modelling.Kata.csproj" />
+    </ItemGroup>
+
 </Project>
